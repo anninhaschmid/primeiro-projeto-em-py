@@ -1,5 +1,5 @@
 # 1 project.py
-sistema de notas 
+SISTEMA DE NOTAS 
 # Dicionário para armazenar as informações dos alunos
 estudantes = {}
 
