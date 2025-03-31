@@ -1,4 +1,4 @@
-# primeiro-projeto-em-py
+# 1 project.py
 sistema de notas 
 # Dicionário para armazenar as informações dos alunos
 estudantes = {}
